@@ -13,7 +13,7 @@ const Navbar = () => {
                                 {" "}
                                 <img
                                     className="img-fluid"
-                                    src={"logoFlixMatch.png"}
+                                    src={"./logoFlixMatch.png"}
                                 />{" "}
                             </Link>
                         </div>
